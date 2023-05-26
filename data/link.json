@@ -1,0 +1,13 @@
+{
+	"applinks": {
+		"details": [
+			 {
+			   "appIDs": [ "6VW8LUGRK6.jp.recochoku.otogacha.dev"]
+			}
+		]
+	},
+
+    "appclips": {
+		"apps": ["6VW8LUGRK6.jp.recochoku.otogacha.dev", "6VW8LUGRK6.jp.recochoku.otogacha.dev.appclip"]
+	}
+}
